@@ -5,17 +5,19 @@ If you see this file, you have seen Readme.
 5
 6
 7
+<<<<<<< HEAD
 8Mark
 9Mark
 10
 (Removed)
-<<<<<<< HEAD
 Now it is Master time!
-=======
 And NOMORE MASTER!!
 
 
 
 And More!
 And EVEN MORE!
->>>>>>> dev
+8
+9Mark
+10
+
