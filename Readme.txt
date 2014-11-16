@@ -8,4 +8,9 @@ If you see this file, you have seen Readme.
 8Mark
 9Mark
 10
-Now it is dev time!
+(Removed)
+And NOMORE MASTER!!
+
+
+
+And More!
