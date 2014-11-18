@@ -1,0 +1,24 @@
+ACTIVATION:
+
+1) Press the "Licensing Mode" button and wait for the completion message.
+
+2) Now launch the App.
+		2a) Click the blue text that says “Having trouble connecting to the internet?”.
+		2b) Click “Offline Activation”.
+		2c) Click “Generate Request Code”.
+
+3) Copy the request code and paste it into the “Request code” field of the keygen.
+		3a) Press “Gen. activation” on the keygen.
+		3b) Copy the “Activation code” from the keygen and paste it into the “Response Code” field.
+		3c) Press “Activate”.
+        3d) You should now see “offline activation Complete”.
+
+8) DO NOT Launch the app yet.
+
+9) Press the "App Mode" button and wait for the completion message.
+
+10) Now launch your App and be happy. 
+
+Repeat the entire “INSTALLING and ACTIVATION” portion of these instructions for each App you want before proceeding to the next section.
+
+PROCEED TO FINISHING PROCESS

@@ -1,0 +1,7 @@
+FINISHING:
+
+Once all the Apps you want are installed…
+
+1) Press “Block Hosts”.
+
+2) You can now reconnect your network and run Adobe App(s) without worry (If you used the Network Disable button, use the Network Enable button.)

@@ -1,0 +1,23 @@
+INSTALLING/SERIALIZING:
+
+Note: You must complete the entire INSTALL portion of the process for each app before installing the next app.
+
+1) Install the App
+
+		1a) Choose “Sign In”, you will get an internet connection error.
+		1b) Choose “Connect Later”, and “Accept” the License Agreement.
+		1c) You will be presented with a Serial Number screen.
+
+2) Use the “X-Force Keygen” to generate a serial number for the App you are installing.
+	
+    Note: DO NOT press the serial number button again, change the “Product” field or close the
+	keygen, the serial number must remain the same during the activation process later.
+
+3) Enter the serial number provided by the keygen and press “Next”.
+		3a) You will get another network error, press “Connect Later”.
+		3b) Chose your install location, press “Install”.
+        3c) You will be presented with an “Installation Complete” screen.
+
+4) DO NOT press “Launch Now” yet!
+
+PROCEED TO ACTIVATION PROCESS

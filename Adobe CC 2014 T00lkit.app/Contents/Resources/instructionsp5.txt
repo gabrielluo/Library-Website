@@ -1,0 +1,3 @@
+OTHER NOTES:
+
+1) In AAM "App Mode" you can run online updates. However some future updates may require downloading offline update packages. In that case you will have to enable AAM "Licesning Mode" before running the update packages.
